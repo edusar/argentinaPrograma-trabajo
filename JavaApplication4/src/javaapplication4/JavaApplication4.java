@@ -6,5 +6,7 @@ public class JavaApplication4 {
         
         Persona p1 = new Persona("Gaston", "Leitner");
     }
-    
-}
+       Persona p2 = new Persona("Jose", "Maldonado");
+    }
+   
+
